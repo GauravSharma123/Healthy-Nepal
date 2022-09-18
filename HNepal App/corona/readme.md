@@ -10,10 +10,6 @@ Track users and basic corona information
 
 ## Setup (Linux)
 
-- Clone repository:
-	```bash
-	git clone https://github.com/bishwo633/corona.git
-	```
 
 - Prepare environment:
 	```bash
