@@ -2,7 +2,6 @@
 
 ## Introduction
 Track users and basic corona information
-Expired as of January 2022, stopped renewal due to low user frequency as of late.
 
 ## Pre-requisites
 - python3.6+
@@ -11,6 +10,10 @@ Expired as of January 2022, stopped renewal due to low user frequency as of late
 
 ## Setup (Linux)
 
+- Clone repository:
+	```bash
+	git clone https://github.com/bishwo633/corona.git
+	```
 
 - Prepare environment:
 	```bash
