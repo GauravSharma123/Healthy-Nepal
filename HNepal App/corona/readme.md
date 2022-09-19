@@ -12,7 +12,7 @@ Track users and basic corona information
 
 - Clone repository:
 	```bash
-	git clone https://github.com/bishwo633/corona.git
+	git clone https://github.com/GauravSharma123/Healthy-Nepal/tree/main/HNepal%20App/corona.git
 	```
 
 - Prepare environment:
